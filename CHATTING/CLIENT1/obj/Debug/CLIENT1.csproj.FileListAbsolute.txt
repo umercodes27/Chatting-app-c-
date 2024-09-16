@@ -1,0 +1,20 @@
+C:\Users\Talal\Desktop\SERVER\CLIENT1\bin\Debug\CLIENT1.exe.config
+C:\Users\Talal\Desktop\SERVER\CLIENT1\bin\Debug\CLIENT1.exe
+C:\Users\Talal\Desktop\SERVER\CLIENT1\bin\Debug\CLIENT1.pdb
+C:\Users\Talal\Desktop\SERVER\CLIENT1\obj\Debug\CLIENT1.csproj.AssemblyReference.cache
+C:\Users\Talal\Desktop\SERVER\CLIENT1\obj\Debug\CLIENT1.Form1.resources
+C:\Users\Talal\Desktop\SERVER\CLIENT1\obj\Debug\CLIENT1.Properties.Resources.resources
+C:\Users\Talal\Desktop\SERVER\CLIENT1\obj\Debug\CLIENT1.csproj.GenerateResource.cache
+C:\Users\Talal\Desktop\SERVER\CLIENT1\obj\Debug\CLIENT1.csproj.CoreCompileInputs.cache
+C:\Users\Talal\Desktop\SERVER\CLIENT1\obj\Debug\CLIENT1.exe
+C:\Users\Talal\Desktop\SERVER\CLIENT1\obj\Debug\CLIENT1.pdb
+\\192.168.9.9\Shared Folder\CHATTING\CLIENT1\bin\Debug\CLIENT1.exe.config
+\\192.168.9.9\Shared Folder\CHATTING\CLIENT1\bin\Debug\CLIENT1.exe
+\\192.168.9.9\Shared Folder\CHATTING\CLIENT1\bin\Debug\CLIENT1.pdb
+\\192.168.9.9\Shared Folder\CHATTING\CLIENT1\obj\Debug\CLIENT1.csproj.AssemblyReference.cache
+\\192.168.9.9\Shared Folder\CHATTING\CLIENT1\obj\Debug\CLIENT1.Form1.resources
+\\192.168.9.9\Shared Folder\CHATTING\CLIENT1\obj\Debug\CLIENT1.Properties.Resources.resources
+\\192.168.9.9\Shared Folder\CHATTING\CLIENT1\obj\Debug\CLIENT1.csproj.GenerateResource.cache
+\\192.168.9.9\Shared Folder\CHATTING\CLIENT1\obj\Debug\CLIENT1.csproj.CoreCompileInputs.cache
+\\192.168.9.9\Shared Folder\CHATTING\CLIENT1\obj\Debug\CLIENT1.exe
+\\192.168.9.9\Shared Folder\CHATTING\CLIENT1\obj\Debug\CLIENT1.pdb

@@ -1,0 +1,13 @@
+C:\Users\Talal\Desktop\SERVER\SERVER\bin\Debug\SERVER.exe.config
+C:\Users\Talal\Desktop\SERVER\SERVER\bin\Debug\SERVER.exe
+C:\Users\Talal\Desktop\SERVER\SERVER\bin\Debug\SERVER.pdb
+C:\Users\Talal\Desktop\SERVER\SERVER\obj\Debug\SERVER.csproj.AssemblyReference.cache
+C:\Users\Talal\Desktop\SERVER\SERVER\obj\Debug\SERVER.Form1.resources
+C:\Users\Talal\Desktop\SERVER\SERVER\obj\Debug\SERVER.Properties.Resources.resources
+C:\Users\Talal\Desktop\SERVER\SERVER\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\Talal\Desktop\SERVER\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\Talal\Desktop\SERVER\SERVER\obj\Debug\SERVER.exe
+C:\Users\Talal\Desktop\SERVER\SERVER\obj\Debug\SERVER.pdb
+\\192.168.9.9\Shared Folder\CHATTING\SERVER\obj\Debug\SERVER.csproj.AssemblyReference.cache
+\\192.168.9.9\Shared Folder\CHATTING\SERVER\obj\Debug\SERVER.exe
+\\192.168.9.9\Shared Folder\CHATTING\SERVER\obj\Debug\SERVER.pdb
